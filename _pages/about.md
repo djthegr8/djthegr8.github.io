@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Trying to code a bit.
+subtitle: EE undergrad at IIT Kanpur specializing in ML, deep learning, embedded systems, and signal processing.
 
 profile:
   align: right
@@ -20,4 +20,4 @@ social: true # includes social icons at the bottom of the page
 
 
 ---
-Programming enthusiast. I've explored various platforms and languages, including C, C++, C#, Rust, Python, MATLAB 
+Works across the full stack — from PCB design and flight computers to browser-based AI and LLM pipelines. Cited by Stanford & CMU researchers. JEE Advanced AIR 1235.

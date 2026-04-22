@@ -1,199 +1,266 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Dweep Joshipura",
+    "label": "B.Tech EE student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "dweepjoshipuracar@gmail.com",
+    "phone": "+91 9353493288",
+    "url": "https://djthegr8.github.io",
+    "summary": "EE undergrad at IIT Kanpur specializing in ML, deep learning, embedded systems, and signal processing. Works across the full stack — from PCB design and flight computers to browser-based AI and LLM pipelines. Cited by Stanford & CMU researchers. JEE Advanced AIR 1235.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Kanpur",
+      "region": "Uttar Pradesh",
+      "countryCode": "IN"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "dj-ai",
+        "url": "https://linkedin.com/in/dj-ai"
+      },
+      {
+        "network": "GitHub",
+        "username": "djthegr8",
+        "url": "https://github.com/djthegr8"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Perception & Intelligence Lab, EE, IITK",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2025-05-01",
+      "summary": "Explored unsupervised & supervised learning for Radar Signal Deinterleaving in dense multi-radar environments.",
+      "highlights": [
+        "Built a MATLAB-based simulation GUI to generate labeled radar datasets under realistic tactical formations.",
+        "Benchmarked HDBSCAN, Laplacian Graph-based Clustering, YOLO11n, YOLO11s on a custom multi-emitter dataset.",
+        "Achieved 0.85 mAP with YOLO11 on real signals; tested novel stacked I/Q input for improved performance under signal overlap."
+      ]
+    },
+    {
+      "name": "Giovanni Franzan",
+      "position": "Freelance Machine Learning Engineer",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2024-07-01",
+      "summary": "Designed novel ML pipelines and algorithms.",
+      "highlights": [
+        "Benchmarked MediaPipe, ONNX.js, tfjs for low-latency, browser-based palm detection in a Unity app.",
+        "Designed a novel 16-class Facial Emotion Recognition (FER) pipeline using MediaPipe Face landmark vectors → lightweight CNN, optimized for low-data training.",
+        "Achieved 70% top-1 accuracy with real-time performance on a skewed 1K-image sample from a Google Research dataset."
+      ]
+    },
+    {
+      "name": "Fiverr",
+      "position": "Freelance Deep Learning Engineer",
+      "url": "",
+      "startDate": "2020-03-01",
+      "endDate": "2022-03-01",
+      "summary": "Delivered freelance projects focused on Web AI using TensorFlow.js, MediaPipe.",
+      "highlights": [
+        "Participated in a private beta of Neural Magic's model pruning and sparsification software."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "IITK Rocketry and Space Exploration Team (RaSET)",
+      "position": "Team Head — Avionics & Payload",
+      "url": "",
+      "startDate": "2025-04-01",
+      "summary": "Manages a 3-tier team of 50+ students alongside 3 other heads.",
+      "highlights": [
+        "Led development of two iterations of STM32-based SMD Flight Computer PCBs with onboard altimeter, IMU, GNSS, LoRa, and pyrotechnic ignition.",
+        "Raised INR 7 Lakhs in sponsorship from IITK alumni.",
+        "2nd place internationally at Teknofest Rocket Competition (Turkey) in the Critical Design stage; won $2000 financial award.",
+        "Cleared Critical Design Review (CDR) for Teknofest (Turkey) & IN-SPACe Model Rocketry.",
+        "Developed avionics for 1 km apogee rockets for IN-SPACe and CANSAT competitions.",
+        "Passed all flight simulations during Launch Readiness Review."
+      ]
+    },
+    {
+      "organization": "Programming Club, IIT Kanpur",
+      "position": "Secretary",
+      "url": "",
+      "startDate": "2024-06-01",
+      "endDate": "2025-04-01",
+      "summary": "Led projects including Scam Detection under UP Police and an LLM Hosting project.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "IIT Kanpur",
+      "location": "Kanpur, India",
+      "url": "",
+      "area": "Electrical Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2023-01-01",
+      "score": "9.7/10 CPI",
+      "courses": [
+        "Analog Electronics (A*)",
+        "Ordinary & Partial Diff. Equations (A*/A*)",
+        "Control Systems (A*)",
+        "Introduction to Electronics (A*)",
+        "Intro to Machine Learning (A*)"
+      ]
+    },
+    {
+      "institution": "NPS Yelahanka, Bangalore",
+      "location": "Bangalore, India",
+      "url": "",
+      "area": "Science",
+      "studyType": "CBSE XII",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "score": "97.2%",
+      "courses": []
+    },
+    {
+      "institution": "NPS Yelahanka, Bangalore",
+      "location": "Bangalore, India",
+      "url": "",
+      "area": "General",
+      "studyType": "CBSE X",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-01",
+      "score": "94.6%",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Academic Excellence Award",
+      "date": "2024-01-01",
+      "awarder": "IIT Kanpur",
+      "summary": "For the 2023–24 session at IITK"
+    },
+    {
+      "title": "Sri Singhasan Singh Scholarship recipient",
+      "date": "2023-01-01",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Shri O.P. Jindal Engineering and Management Scholarship (OPJEMS)",
+      "date": "2023-01-01",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "2nd place at Freshers Case Study Competition",
+      "date": "2023-01-01",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Deep Learning Specialization",
+      "date": "2023-01-01",
+      "issuer": "Coursera / DeepLearning.AI",
+      "url": "",
+      "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "ChatGPT Prompt Engineering for Developers",
+      "date": "2023-01-01",
+      "issuer": "Coursera / DeepLearning.AI",
+      "url": "",
+      "icon": "fa-solid fa-certificate"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Languages",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C",
+        "C++",
+        "C#",
+        "Python",
+        "MATLAB",
+        "JavaScript",
+        "Rust",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Libraries & Tools",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-wrench",
+      "keywords": [
+        "Git",
+        "OpenCV",
+        "Pandas",
+        "NumPy",
+        "PyTorch",
+        "TensorFlow (Keras + TF.js)",
+        "Matplotlib"
+      ]
+    },
+    {
+      "name": "Domains",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "TensorFlow.js / Web AI",
+        "MediaPipe",
+        "PCB Design (STM32, SMD)",
+        "Arduino IDE",
+        "Image Processing",
+        ".NET / .NET Core"
       ]
     }
   ],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
     {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "interests": [],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Combating Catastrophic Forgetting",
+      "summary": "Developed a novel Weighted Prototype Update for a CIFAR-10 classifier (on BeiT features) that generalizes to same-distribution datasets without labels.",
+      "highlights": [
+        "Prevented catastrophic forgetting, limiting worst-case accuracy to 97.4%",
+        "Designed a Clustering-based Mean Shift prototype update algorithm for Unsupervised Domain Adaptation",
+        "Achieved ~5% accuracy improvement on out-of-distribution data while maintaining performance on prior data"
+      ],
+      "startDate": "2024-10-01",
+      "endDate": "2024-11-01",
+      "url": ""
+    },
+    {
+      "name": "GenAI User Interaction Extension",
+      "summary": "Built a Chrome Extension tracking 12+ user interactions and analyzing attention proportions via LLM.",
+      "highlights": [
+        "Integrated webGazer.js for Eye Gaze tracking with automatic calibration through the device webcam",
+        "Designed a pipeline to pass multimodal interaction data + HTML elements to Gemini and display results in console"
+      ],
+      "startDate": "2024-06-01",
+      "endDate": "2024-07-01",
+      "url": ""
+    },
+    {
+      "name": "Detection of AI-Generated Images",
+      "summary": "Inter IIT Tech Meet 13.0 - Classify AI-generated images, identify artifacts, generate explanations.",
+      "highlights": [
+        "Implemented a BNN with Fourier Magnitude and Local Binary Pattern channels for classification",
+        "Benchmarked Static & Dynamic Quantization (PTQ & QAT) in PyTorch for real-time performance",
+        "Used Jina-Clip-V2 and ResNets for artifact identification; fine-tuned Ovis1.6 for explanation generation",
+        "Results: 2.6× speedup (80ms → 30ms) with <1% accuracy drop using Dynamic FX Mode PTQ; 97.2% accuracy, 30ms CPU inference"
+      ],
+      "startDate": "2024-11-01",
+      "endDate": "2025-01-01",
+      "url": ""
     }
   ]
 }
