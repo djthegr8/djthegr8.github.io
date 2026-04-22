@@ -58,9 +58,7 @@
       "startDate": "2020-03-01",
       "endDate": "2022-03-01",
       "summary": "Delivered freelance projects focused on Web AI using TensorFlow.js, MediaPipe.",
-      "highlights": [
-        "Participated in a private beta of Neural Magic's model pruning and sparsification software."
-      ]
+      "highlights": ["Participated in a private beta of Neural Magic's model pruning and sparsification software."]
     }
   ],
   "volunteer": [
@@ -177,43 +175,19 @@
       "name": "Languages",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "C",
-        "C++",
-        "C#",
-        "Python",
-        "MATLAB",
-        "JavaScript",
-        "Rust",
-        "LaTeX"
-      ]
+      "keywords": ["C", "C++", "C#", "Python", "MATLAB", "JavaScript", "Rust", "LaTeX"]
     },
     {
       "name": "Libraries & Tools",
       "level": "Intermediate",
       "icon": "fa-solid fa-wrench",
-      "keywords": [
-        "Git",
-        "OpenCV",
-        "Pandas",
-        "NumPy",
-        "PyTorch",
-        "TensorFlow (Keras + TF.js)",
-        "Matplotlib"
-      ]
+      "keywords": ["Git", "OpenCV", "Pandas", "NumPy", "PyTorch", "TensorFlow (Keras + TF.js)", "Matplotlib"]
     },
     {
       "name": "Domains",
       "level": "Intermediate",
       "icon": "fa-solid fa-microchip",
-      "keywords": [
-        "TensorFlow.js / Web AI",
-        "MediaPipe",
-        "PCB Design (STM32, SMD)",
-        "Arduino IDE",
-        "Image Processing",
-        ".NET / .NET Core"
-      ]
+      "keywords": ["TensorFlow.js / Web AI", "MediaPipe", "PCB Design (STM32, SMD)", "Arduino IDE", "Image Processing", ".NET / .NET Core"]
     }
   ],
   "languages": [

@@ -17,7 +17,6 @@ news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-
 ---
+
 Works across the full stack — from PCB design and flight computers to browser-based AI and LLM pipelines. Cited by Stanford & CMU researchers. JEE Advanced AIR 1235.
