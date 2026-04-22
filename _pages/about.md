@@ -6,7 +6,7 @@ subtitle: EE undergrad at IIT Kanpur specializing in ML, deep learning, embedded
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: dweep_img.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>BTech - Electrical Engineering</p>
