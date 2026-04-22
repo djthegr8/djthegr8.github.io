@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - djthegr8
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - djthegr8/InterIIT-Adobe-PS
+  - djthegr8/CS771-Project-1  
+  - djthegr8/CS771-Project-2
+  - djthegr8/RoleX
+  - djthegr8/ZoomAutoJoin
+
